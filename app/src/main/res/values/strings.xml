@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Food_Donation_App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_donations">My Donations</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="search_food" />
+    <string name="donate" />
+    <string name="update" />
+    <string name="my_cart" />
+    <string-array name="filter_options">
+        <item>Location</item>
+        <item>Cooked/Raw</item>
+    </string-array>
+    <string-array name="cooked_raw">
+        <item>Cooked</item>
+        <item>Raw</item>
+    </string-array>
+    <string-array name="veg_nonveg">
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+    </string-array>
+    <string name="donation_id">Donation ID:</string>
+    <string name="update_donation_status">Update Donation Status</string>
+    <string name="current_status">Current Status:</string>
+    <string name="reason_for_update">Reason for Update:</string>
+    <string name="submit">Submit</string>
+    <string-array name="donation_status">
+        <item>Donated</item>
+        <item>Spoiled</item>
+    </string-array>
+    <string name="food_donation_app">Food Donation App</string>
+    <string name="inquire_donations" />
+    <string-array name="volunteer_types">
+        <item>Food Collection</item>
+        <item>Food Distribution</item>
+        <item>Cooking</item>
+        <item>Logistics</item>
+        <item>Fundraising</item>
+    </string-array>
+    <string-array name="food_type_array">
+        <item>Cooked</item>
+        <item>Raw</item>
+    </string-array>
+
+    <string-array name="veg_non_veg_array">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+    </string-array>
+</resources>

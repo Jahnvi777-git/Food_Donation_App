@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextPhone" type="id" />
+    <item name="spinnerFoodType" type="id" />
+    <item name="spinnerVegNonVeg" type="id" />
+    <item name="editTextPeopleCount" type="id" />
+    <item name="editTextAddress" type="id" />
+</resources>
